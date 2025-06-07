@@ -184,7 +184,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
 -K.Deekshitha - [Deekshitha Kammela](https://github.com/Deekshithaa-06 )
 -K.Lalitha Sri-[K.Lalitha sri](https://github.com/Lalitha-2006 )
 -K.Venkata Naga Sowmya-[SowmyaKurapati26](https://github.com/SowmyaKurapati26 )
